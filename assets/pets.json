@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Hermosa",
+        "breed": "Persian",
+        "age": "3 years old",
+        "distance": "3.6 Km",
+        "gender": "male",
+        "image": "assets/persian_cat.png",
+        "origin": "Iran",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+        "id": 2,
+        "name": "Snowy",
+        "breed": "Alaskan",
+        "age": "2 years old",
+        "distance": "4.5 Km",
+        "gender": "female",
+        "image": "assets/husky.png",
+        "origin": "Russia",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+        "id": 3,
+        "name": "Kouki",
+        "breed": "Cat",
+        "age": "2 years old",
+        "distance": "5.0 Km",
+        "gender": "male",
+        "image": "assets/cat.png",
+        "origin": "Tunisia",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+        "id": 4,
+        "name": "Rex",
+        "breed": "German",
+        "age": "5 years old",
+        "distance": "10.0 Km",
+        "gender": "male",
+        "image": "assets/german.png",
+        "origin": "Austria",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+] 
